@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>📊 Data Architecture & Engineering Student | FATEC São José dos Campos</em>
+  <em>📊 Data Science Student at Oracle Next Education (ONE) - 2025 </em>
 </p>
 
 ---
