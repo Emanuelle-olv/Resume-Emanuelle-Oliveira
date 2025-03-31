@@ -39,29 +39,32 @@ I'm building solid knowledge in the data ecosystem with Python, SQL, ETL pipelin
 | 📘 Course (Translated Title)                                              | 🏫 Institution            | ⏱️ Hours | 📎 File |
 |--------------------------------------------------------------------------|---------------------------|----------|---------|
 | Data Science Training Program                                            | Alura                     | —        | [Open](./certificates/aluno%20alura%20data%20science.pdf) |
-| Introduction to Data Science                                             | FGV                       | 60h      | [Open](./certificates/certificado_Fgv_curso_gratuito_ciencia-de_dados_60h_14%2016%202024.pdf) |
+| Introduction to Data Science                                             | FGV                       | 60h      | [Open](./certificates/certificado_Fgv_curso_gratuito_ciencia-de_dados_60h_14_16_2024.pdf) |
 | Technology Fundamentals                                                  | Escola da Nuvem / EdN     | 16h      | [Open](./certificates/Certificado+Trilha+de+Fundamentos+de+Tecnologia+EdN%20.pdf) |
 | Innovation School – 2024.2 Edition                                       | INOVA CPS                 | 40h      | [Open](./certificates/escola_inovadores_2024_2.pdf) |
-| Learning How to Learn – Self-Development Techniques                      | Alura                     | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20Aprender%20a%20aprender%20-%20t%C3%A9cnicas%20para%20seu%20autodesenvolvimento%20-%20Alura.pdf) |
-| Focus: Achieving Better Results in Daily Life                 | Alura          | 10h      | [Open](./certificates/Emanuelle%20-%20Curso%20Foco_%20trazendo%20mais%20resultados%20para%20o%20dia%20a%20dia%20-%20Alura.pdf) |
-| Git & GitHub: Collaborating on Projects                       | Alura          | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20Git%20e%20GitHub_%20compartilhando%20e%20colaborando%20em%20projetos%20-%20Alura.pdf) |
-| Habits: From Productivity to Personal Goals                   | Alura          | 6h       | [Open](./certificates/Emanuelle%20-%20Curso%20H%C3%A1bitos_%20da%20produtividade%20%C3%A0s%20metas%20pessoais%20-%20Alura.pdf) |
-| HTML & CSS: Development Environment, Structure, and Tags      | Alura          | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf) |
-| HTML & CSS: Header, Footer and CSS Variables                  | Alura          | 6h       | [Open](./certificates/Emanuelle%20-%20Curso%20HTML%20e%20CSS_%20cabe%C3%A7alho%2C%20footer%20e%20vari%C3%A1veis%20CSS%20-%20Alura.pdf) |
-| HTML & CSS: Classes, Positioning and Flexbox                  | Alura          | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20HTML%20e%20CSS_%20Classes%2C%20posicionamento%20e%20Flexbox%20-%20Alura.pdf) |
-| HTML & CSS: Responsiveness and Project Deployment             | Alura          | 6h       | [Open](./certificates/Emanuelle%20-%20Curso%20HTML%20e%20CSS_%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos%20-%20Alura.pdf) |
-| LinkedIn: Building a Strong Professional Profile              | Alura          | 4h       | [Open](./certificates/Emanuelle%20-%20Curso%20LinkedIn_%20como%20fazer%20o%20seu%20perfil%20trabalhar%20para%20voc%C3%AA%20-%20Alura.pdf) |
-| Programming Logic: Exploring Functions and Lists              | Alura          | 6h       | [Open](./certificates/Emanuelle%20-%20Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20explore%20fun%C3%A7%C3%B5es%20e%20listas%20-%20Alura.pdf) |
-| Programming Logic: Dive into JavaScript                       | Alura          | 6h       | [Open](./certificates/Emanuelle%20-%20Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript%20-%20Alura.pdf) |
-| Practicing Logic: Secret Friend Challenge                     | Alura          | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20Praticando%20Logica%20de%20programa%C3%A7%C3%A3o_%20Challenge%20amigo%20secreto%20-%20Alura.pdf) |
-| ChatGPT: Optimizing Result Quality                            | Alura          | 8h       | [Open](./certificates/Emanuelle%20-%20Curso%20ChatGPT_%20otimizando%20a%20qualidade%20dos%20resultados%20-%20Alura.pdf) |
+| Learning How to Learn – Self-Development Techniques                      | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_Aprender_a_aprender_técnicas_para_seu_autodesenvolvimento_Alura.pdf) |
+| ChatGPT: Optimizing Result Quality                                       | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_ChatGPT_otimizando_a_qualidade_dos_resultados-Alura.pdf) |
+| Focus: Achieving Better Results in Daily Life                            | Alura                     | 10h      | [Open](./certificates/Emanuelle_Curso_Foco_trazendo_mais_resultados_para_o_dia_a_dia-Alura.pdf) |
+| Git & GitHub: Collaborating on Projects                                  | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_Git_e_GitHub_compartilhando_e_colaborando_em_projetos-Alura.pdf) |
+| Habits: From Productivity to Personal Goals                              | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_Hábitos_da_produtividade_às_metas_pessoais-Alura.pdf) |
+| HTML & CSS: Responsiveness and Project Deployment                        | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_HTML_e_CSS_trabalhando_com_responsividade_e_publicação_de_projetos-Alura.pdf) |
+| HTML & CSS: Development Environment, Structure, and Tags                 | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_HTML_e_CSS_ambientes_de_desenvolvimento_estrutura_de_arquivos_e_tags-Alura.pdf) |
+| HTML & CSS: Header, Footer and CSS Variables                             | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_HTML_e_CSS_cabeçalho_footer_e_variáveis_CSS-Alura.pdf) |
+| HTML & CSS: Classes, Positioning and Flexbox                             | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_HTML_e_CSS_Classes_posicionamento_e_Flexbox-Alura.pdf) |
+| LinkedIn: Building a Strong Professional Profile                         | Alura                     | 4h       | [Open](./certificates/Emanuelle_Curso_LinkedIn_como_fazer_o_seu_perfil_trabalhar_para_você-Alura.pdf) |
+| Programming Logic: Exploring Functions and Lists                         | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_Lógica_de_programação_explore_funções_e_listas-Alura.pdf) |
+| Programming Logic: Dive into JavaScript                                  | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_Lógica_de_programação_mergulhe_em_programação_com_JavaScript-Alura.pdf) |
+| Practicing Logic: Secret Friend Challenge                                | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_Praticando_Lógica_de_programação_Challenge_amigo_secreto-Alura.pdf) |
+| Conceptual Satellite Design Seminar – Listener                           | ITA (Brazilian Air Force Institute of Technology) | 4h | [Open](./certificates/_Certificado%20SPOCS%20(1).png) |
 
 ---
 
 ## 📄 Curriculum
 
-- 📁 [Curriculum - EN](./curriculum/curriculum_Emanuelle_Oliveira - github.pdf)  
-- 📁 [Currículo - PT](./curriculum/cv_Emanuelle_Oliveira - github.pdf)
+| 🌐 Language | 📁 Link |
+|------------|--------|
+| 🇺🇸 [Curriculum - EN](./curriculum/curriculum_Emanuelle_Oliveira-github.pdf) |
+| 🇧🇷 [Currículo - PT](./curriculum/cv_Emanuelle_Oliveira-github.pdf) |
 
 ---
 
