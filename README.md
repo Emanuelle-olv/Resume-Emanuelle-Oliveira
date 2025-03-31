@@ -41,13 +41,6 @@ I'm building solid knowledge in the data ecosystem with Python, SQL, ETL pipelin
 
 ---
 
-## 🌐 Contact
-
-- 🔗 **GitHub:** [@Emanuelle-olv](https://github.com/Emanuelle-olv)  
-- 🔗 **LinkedIn:** [linkedin.com/in/emanuelle-oliveira-data-architect](https://www.linkedin.com/in/emanuelle-oliveira-data-architect)
-
----
-
 ## 📜 Certifications
 
 > 📝 All certificates were issued by well-recognized educational platforms. Courses were conducted in Portuguese.
@@ -72,6 +65,13 @@ I'm building solid knowledge in the data ecosystem with Python, SQL, ETL pipelin
 | Programming Logic: Dive into JavaScript                                  | Alura                     | 6h       | [Open](./certificates/Emanuelle_Curso_Lógica_de_programação_mergulhe_em_programação_com_JavaScript-Alura.pdf) |
 | Practicing Logic: Secret Friend Challenge                                | Alura                     | 8h       | [Open](./certificates/Emanuelle_Curso_Praticando_Lógica_de_programação_Challenge_amigo_secreto-Alura.pdf) |
 | Conceptual Satellite Design Seminar – Listener                           | ITA (Brazilian Air Force Institute of Technology) | 4h | [Open](./certificates/_Certificado%20SPOCS%20(1).png) |
+
+---
+
+## 🌐 Contact
+
+- 🔗 **GitHub:** [@Emanuelle-olv](https://github.com/Emanuelle-olv)  
+- 🔗 **LinkedIn:** [linkedin.com/in/emanuelle-oliveira-data-architect](https://www.linkedin.com/in/emanuelle-oliveira-data-architect)
 
 ---
 
