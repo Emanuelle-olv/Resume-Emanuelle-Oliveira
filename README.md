@@ -61,8 +61,10 @@ I'm building solid knowledge in the data ecosystem with Python, SQL, ETL pipelin
 
 ## 📄 Curriculum
 
-- 📁 [Curriculum - EN](./curriculum/curriculum_Emanuelle_Oliveira - github.pdf)  
-- 📁 [Currículo - PT](./curriculum/cv_Emanuelle_Oliveira - github.pdf)
+| 🌐 Language | 📁 Link |
+|------------|--------|
+| 🇺🇸 [Curriculum - EN](./curriculum/curriculum_Emanuelle_Oliveira-github.pdf) |
+| 🇧🇷 [Currículo - PT](./curriculum/cv_Emanuelle_Oliveira-github.pdf) |
 
 ---
 
